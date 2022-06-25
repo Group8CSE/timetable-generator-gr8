@@ -1,2 +1,11 @@
-# timetable-generator-gr8
-Group 8 Mini Project
+Introduction
+============
+
+## Documentation & Installation Guide
+
+### Contribution
+Contribution are always **welcome and recommended**! Here is how:
+
+### Change log
+
+### Image Credits
